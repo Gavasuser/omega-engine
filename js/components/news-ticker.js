@@ -12,7 +12,7 @@ Vue.component("news-ticker", {
                 "did you know this message has the same chances of coming up as every other one? ",
                 "Θ / 2 = 42",
                 "BURNNNNNNNNNN",
-                "im the Α, im the Λ, im the one to trust",
+                "im the Α, im the leader, im the one to trust",
                 "what if i told you that secret achievements are not real",
                 "omega layers 2, coming in 2^^108 years",
                 "do you ever stop to think about your criminal record?",
