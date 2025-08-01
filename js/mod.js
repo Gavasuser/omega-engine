@@ -1,5 +1,5 @@
 const mod = {
-    primaryName: "ω",
+    primaryName: "Fast",
     secondaryName: "Engine",
     version: "1.0.0",
     engineVer: "1.0.1", //DO NOT MODIFY
@@ -73,7 +73,7 @@ const mod = {
     debugClasses: []
 }
 
-//DO NOT MODIFY CODE PAST THIS POINT AS IT IS NEEDED (unless your a pro coder then do some experimenting)
+//DO NOT MODIFY CODE PAST THIS POINT AS IT IS NEEDED (unless you are a pro coder then do some experimenting)
 
 mod.layerNames.push(["Refresh Names", "refresh"])
 
